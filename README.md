@@ -16,3 +16,4 @@ The dashboard has 5 tabs as follows:
     - Average values per neighborhood - Parallel Categories 
 5) Geospatial Analysis, containting an interactive map with data on average prices per neighborhood. 
 
+![dashboard](Images/dashboard.png)
